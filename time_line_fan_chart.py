@@ -1,3 +1,5 @@
+#  Copyright (c) 2025 Robert Ball, Joshua Jensen, and Cody Squadroni
+
 import matplotlib.pyplot as plt
 from matplotlib.patches import Arc
 import matplotlib as mpl
